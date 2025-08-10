@@ -1,0 +1,260 @@
+[
+  {
+    "hiddenCost": 103,
+    "id": "6335",
+    "name": "IRON SOCKET",
+    "price": 69
+  },
+  {
+    "hiddenCost": 56,
+    "id": "2527",
+    "name": "BED SWITCH   ",
+    "price": 38
+  },
+  {
+    "hiddenCost": 79,
+    "id": "39571",
+    "name": "6A 3 PIN TOP ( ISI )",
+    "price": 53
+  },
+  {
+    "hiddenCost": 104,
+    "id": "39582",
+    "name": "16A 3 PIN TOP( ISI)",
+    "price": 70
+  },
+  {
+    "hiddenCost": 314,
+    "id": "8432",
+    "name": "BUL BULB BELL",
+    "price": 211
+  },
+  {
+    "hiddenCost": 93,
+    "id": "3155",
+    "name": "6A MULTIPLUG           ",
+    "price": 63
+  },
+  {
+    "hiddenCost": 69,
+    "id": "38058",
+    "name": "DELUX 1 WAY",
+    "price": 103
+  },
+  {
+    "hiddenCost": 38,
+    "id": "38025",
+    "name": "2 WAY",
+    "price": 56
+  },
+  {
+    "hiddenCost": 28,
+    "id": "38047",
+    "name": "BELL PUSH",
+    "price": 79
+  },
+  {
+    "hiddenCost": 15,
+    "id": "38194",
+    "name": "CHERRY 1 WAY SW",
+    "price": 104
+  },
+  {
+    "hiddenCost": 29,
+    "id": "38207",
+    "name": "CHERRY 2 WAY SW",
+    "price": 314
+  },
+  {
+    "hiddenCost": 29,
+    "id": "38342",
+    "name": "3 PIN SOCKET",
+    "price": 43
+  },
+  {
+    "hiddenCost": 102,
+    "id": "3166",
+    "name": "3 PIN SOCKET",
+    "price": 152
+  },
+  {
+    "hiddenCost": 110,
+    "id": "22841",
+    "name": "13A SOCKET combi",
+    "price": 164
+  },
+  {
+    "hiddenCost": 46,
+    "id": "38295",
+    "name": "FUSE 10A",
+    "price": 94
+  },
+  {
+    "hiddenCost": 34,
+    "id": "38273",
+    "name": "INDICATOR",
+    "price": 24
+  },
+  {
+    "hiddenCost": 65,
+    "id": "38444",
+    "name": "RJ-11 TL JACK",
+    "price": 47
+  },
+  {
+    "hiddenCost": 42,
+    "id": "38400",
+    "name": "TV SOCKET",
+    "price": 206
+  },
+  {
+    "hiddenCost": 184,
+    "id": "38284",
+    "name": "1M FAN REGULATOR STEP",
+    "price": 430
+  },
+  {
+    "hiddenCost": 206,
+    "id": "38660",
+    "name": "2M FAN REGULATORSTEP",
+    "price": 871
+  },
+  {
+    "hiddenCost": 196,
+    "id": "38648",
+    "name": "MINI  SW - DIMMER 450W",
+    "price": 871
+  },
+  {
+    "hiddenCost": 217,
+    "id": "22730",
+    "name": "DELUX SK- DIMMER 450W",
+    "price": 879
+  },
+  {
+    "hiddenCost": 256,
+    "id": "450",
+    "name": "SUPREME DIMMER(PLATE TYPE)",
+    "price": 314
+  },
+  {
+    "hiddenCost": 291,
+    "id": "650",
+    "name": "SUPREME DIMMER(PLATE TYPE)",
+    "price": 370
+  },
+  {
+    "hiddenCost": 128,
+    "id": "39094",
+    "name": "DP         OPEN /   CON",
+    "price": 449
+  },
+  {
+    "hiddenCost": 121,
+    "id": "39999",
+    "name": "SS COMBINE COUNCIL(2HOLES)",
+    "price": 830
+  },
+  {
+    "hiddenCost": 121,
+    "id": "39998",
+    "name": "SS COMBIME COUNCIL(4HOLES)",
+    "price": 51
+  },
+  {
+    "hiddenCost": 79,
+    "id": "39991",
+    "name": "20A 1 WAY SW",
+    "price": 51
+  },
+  {
+    "hiddenCost": 96,
+    "id": "38488",
+    "name": "20A 2 WAY SW",
+    "price": 377
+  },
+  {
+    "hiddenCost": 83,
+    "id": "39994",
+    "name": "20A SOCKET",
+    "price": 613
+  },
+  {
+    "hiddenCost": 176,
+    "id": "39550",
+    "name": "5 IN 1 COUNCIL (2 HOLES)",
+    "price": 729
+  },
+  {
+    "hiddenCost": 176,
+    "id": "38580",
+    "name": "5 IN 1 COUNCIL (4 HOLES)",
+    "price": 875
+  },
+  {
+    "hiddenCost": 184,
+    "id": "39984",
+    "name": "5 IN 1 BOX TYPE",
+    "price": 737
+  },
+  {
+    "hiddenCost": 93,
+    "id": "38842",
+    "name": "6A SS  BOX TYPE COMBINE",
+    "price": 845
+  },
+  {
+    "hiddenCost": 170,
+    "id": "MCB -SP",
+    "name": "PENTA",
+    "price": 1218
+  },
+  {
+    "hiddenCost": 403,
+    "id": "MCB -DP",
+    "name": "PENTA",
+    "price": 126
+  },
+  {
+    "hiddenCost": 31,
+    "id": "2301",
+    "name": "BOX TYPE SW",
+    "price": 577
+  },
+  {
+    "hiddenCost": 34,
+    "id": "2323",
+    "name": "BOX TYPE BELL PUSH",
+    "price": 1019
+  },
+  {
+    "hiddenCost": 21,
+    "id": "6506",
+    "name": "ADAPTER",
+    "price": 1714
+  },
+  {
+    "hiddenCost": 28,
+    "id": "N/A",
+    "name": "BATTEN HOLDER",
+    "price": 509
+  },
+  {
+    "hiddenCost": 21,
+    "id": "39017",
+    "name": "CELLING ROSE",
+    "price": 392
+  },
+  {
+    "hiddenCost": 27,
+    "id": "39040",
+    "name": "CELLING ROSE 3 PLATE",
+    "price": 552
+  },
+  {
+    "hiddenCost": 24,
+    "id": "14706",
+    "name": "PENDENT HOLDER",
+    "price": 534
+  }
+]
